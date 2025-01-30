@@ -1,0 +1,8 @@
+Folder Structure
+your-website/
+│
+├── index.html
+├── styles.css
+├── script.js
+├── images/ (for logos, product images, etc.)
+└── README.md (optional)
